@@ -17,4 +17,6 @@ o fim de linha após o resultado, caso contrário, você receberá "Presentation
 a = int(input())
 b = int(input())
 
-print('X =',  (a+b))
+x = a+b
+
+print('X =',  x)
