@@ -24,5 +24,3 @@ for i in range(0, 6):
         
 print(count, 'valores positivos')
 print('%.1f' % (soma/count) )
-
-#Desenvolvido por Rayssa Buarque 
