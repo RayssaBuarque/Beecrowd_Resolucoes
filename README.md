@@ -4,43 +4,43 @@
 
 Este repositório contém todos as soluções que desenvolvi para Desafios de Código na plataforma [Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/746470).
 
-### Organização de Arquivos
+## Organização de Arquivos
 
 Os exercícios e suas resoluções estão divididos em 9 pastas, referentes Às 9 categorias de exercícios do Beecrowd.
 
-- 1) Iniciante:
+#### 1 - Iniciante:
 
     Problemas básicos para quem é iniciante em programação.
 
-- 2) Ad-Hoc:
+#### 2 - Ad-Hoc:
 
     Problema de Simulação, datas e Ad-Hoc no geral. 
 
-- 3) Strings:
+#### 3 - Strings:
 
     Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings...
 
-- 4) Estruturas e Bibliotecas:
+#### 4 - Estruturas e Bibliotecas:
 
     Filas, Pilhas, Ordenação, Mapas...
 
-- 5) Matemática:
+#### 5 - Matemática:
 
     Sistemas numéricos, Números Primos, BigInteger...
 
-- 6) Paradigmas:
+#### 6 - Paradigmas:
 
     Programação Dinâmica, Busca Binária, Gulosos, Backtracking...
 
-- 7) Grafos:
+#### 7 - Grafos:
 
     Flood Fill, MST, SSSP, DAG, Fluxo Máximo, Árvores...
 
-- 8) Geometria Computacional:
+#### 8 - Geometria Computacional:
 
     Pontos e Linhas, Polígonos...
 
-- 9) SQL:
+#### 9 - SQL:
 
     Linguagens de consulta: Seleção, Inserção, Atualização, Criação
 
