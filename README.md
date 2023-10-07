@@ -5,4 +5,17 @@
 Este repositório contém todos as soluções que desenvolvi para Desafios de Código na plataforma Beecrowd.
 - [Confira meu perfil no Beecrowd](https://www.beecrowd.com.br/judge/pt/profile/746470)
 
+### Organização de Arquivos
+
+- Ad-Hoc:
+    Problema de Simulação, datas e Ad-Hoc no geral. 
+- Iniciante
+    Problemas básicos para quem é iniciante em programação.
+- Matemática
+    Sistemas numéricos, Números Primos, BigInteger...
+- SQL
+    Linguagens de consulta: Seleção, Inserção, Atualização, Criação
+- Strings
+    Palindromos, Frequência, Ad-Hoc, LCS, Manipulação de Strings...
+
 <!-- Markdown Badges: https://github.com/danmadeira/simple-icon-badges -->
